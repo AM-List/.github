@@ -1,4 +1,6 @@
-## Hi there 👋
+# AM-List Bêta
+
+Créer ta bibliothèque d'animes !
 
 <!--
 
